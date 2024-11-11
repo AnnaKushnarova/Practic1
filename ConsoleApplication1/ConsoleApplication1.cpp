@@ -2,6 +2,7 @@
 #include <math.h>
 #include <windows.h>
 using namespace std;
+// code
 int main()
 {
     double r;
